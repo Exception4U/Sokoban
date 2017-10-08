@@ -5,3 +5,9 @@ Requirements: Python 2.6, PyGame
 To play, type "python sokoban.py". You will be taken the first level of "Microban", a level set by David W. Skinner: http://users.bentonrea.com/~sasquatch/sokoban/. It's challenging but quite manageable and a good introduction to the game.
 
 Once inside, click the "Help" box for details about playing the game.
+
+
+THis can be consoidered as practise assignment to SOLVE using DQN.
+
+
+AUthor:Tushar Vaidya : mail@tusharvaidya.info
